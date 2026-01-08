@@ -1,0 +1,8 @@
+fact:=5;
+acc := 1;
+c :=1 ;
+while ! (fact <= c) {
+  c := c+1;
+  acc := acc * c;
+}
+return acc ;

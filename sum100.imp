@@ -1,0 +1,9 @@
+c := 0;
+max := 100;
+sum := 0;
+while (c < max)
+  {
+  c := c + 1;
+  sum := sum + c;
+  }
+return sum;

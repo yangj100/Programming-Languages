@@ -1,0 +1,28 @@
+ghci> main
+Enter a file to load:
+exMul.imp
+42
+ghci> main
+Enter a file to load:
+checkPrime111.imp
+0
+ghci> main
+Enter a file to load:
+checkPrime107.imp
+1
+ghci> main
+Enter a file to load:
+checkPrime91.imp
+0
+ghci> main
+Enter a file to load:
+fact5.imp
+120
+ghci> main
+Enter a file to load:
+fib8.imp
+21
+ghci> main
+Enter a file to load:
+sum100.imp
+5050

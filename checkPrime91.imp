@@ -1,0 +1,11 @@
+  n := 91;
+  if (n==0) then return 0;
+  if (n==1) then return 0;
+  if (n==2) then return 1;
+  if (n % 2 == 0) then return 0;
+  i:=3;
+  while (i < n) {
+    if (n % i == 0) then return 0;
+    i := i + 2;
+  }
+  return 1;
